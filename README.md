@@ -2,4 +2,4 @@
 
 `npm run local` - Run local version at http://localhost:3002
 
-`npm run deploy` - Deploys to aws
+`npm run deploy` - Deploys to AWS
